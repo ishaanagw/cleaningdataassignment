@@ -1,4 +1,4 @@
-# Cleaningdataassignment
+# CleaningDataAssignment
 This repository is created to clean the data collected from the accelerometers and gyroscope 
 of a smartphone, which they were wearing on the waist.
 The smartphone used was __Samsung Galaxy S II__.
